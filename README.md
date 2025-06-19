@@ -14,7 +14,7 @@ The goal is to give customers a clear, working reference with as little boilerpl
 
 ```
 .
-├── example.py           # Main demo script
+├── get_scan_results.py           # Main demo script
 ├── utils/
 │   └── generate_oauth_token.py
 ├── config.json          # Tenant-specific settings (never commit credentials)
