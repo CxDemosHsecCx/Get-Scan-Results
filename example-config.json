@@ -1,0 +1,6 @@
+{
+    "api_url": "https://us.ast.checkmarx.net/api",
+    "iam_url": "https://us.iam.checkmarx.net/auth/realms/",
+    "api_key": "<api_key>",
+    "tenant_name": "<tenant_name>"
+}
